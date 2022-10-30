@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+<h1>Hi, I'm Charlotte!</h1>
+</div>
 
-<!--
-**chaarlottte/chaarlottte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=F5A9B8)
 
-Here are some ideas to get you started:
+I'm a 15 year old software engineer with over 6 years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some of my skills include:
+- Programming languages such as Java, NodeJS, Python, Go, and a few others
+- Backend development and engineering
+- Malware creation, threat analysis, and penetration testing
+- System administration
+- Working with the Minecraft Protocol
+- Mixins (SpongePowered), Gradle
+- The Discord API
+
+### Some of my weaker points that I'd like to work on are:
+- Frontend development
+- HTML/CSS/Vanilla JS
+- C++
+
+### Some things I'm looking to work on
+- Minecraft clients/mods
+- Discord bots/other tools involving Discord
+
+### Skills (but pretty)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,discord,bots,express,go,gradle,linux,lua,mysql,py,sqlite,selenium&perline=7)](https://skillicons.dev)
+---
+
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=chaarlottte&theme=react-dark)
