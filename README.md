@@ -13,12 +13,12 @@ I'm a 15 year old software engineer with over 6 years of experience.
 - System administration
 - Working with the Minecraft Protocol
 - Mixins (SpongePowered), Gradle
-- The Discord API
+- Working with the Discord API
 
 ### Some of my weaker points that I'd like to work on are:
 - Frontend development
 - HTML/CSS/Vanilla JS
-- C++
+- C/C++
 
 ### Some things I'm looking to work on
 - Minecraft clients/mods
