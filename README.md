@@ -4,7 +4,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=F5A9B8)
 
-I'm a 15 year old software engineer with over 6 years of experience.
+I'm a 16 year old software engineer with over 7 years of experience.
 
 ### Some of my skills include:
 - Programming languages such as Java, NodeJS, Python, Go, and a few others
